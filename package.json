@@ -5,7 +5,7 @@
     "start": "ses-templates start"
   },
   "dependencies": {
-    "ses-templates": "^1.0.4"
+    "ses-templates": "^1.0.5"
   },
   "devDependencies": {
     "husky": "^4.2.5",
