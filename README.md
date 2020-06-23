@@ -5,6 +5,7 @@ My Amazon SES templates.
 ## Requirements
 
 - Node ^13.12.0
+- npm ^6.14.4
 
 ## Getting Started
 
